@@ -37,7 +37,8 @@ print(result,unans)
 ~~~
 
 ## Output
-<img width="803" alt="image" src="https://github.com/Dharsanrameshkumar/4.Execution_of_NetworkCommends/assets/144870430/783fa7bd-a202-4489-a962-3f2cf99d3eff">
+<img width="818" alt="image" src="https://github.com/Dharsanrameshkumar/4.Execution_of_NetworkCommends/assets/144870430/6423fb6a-73e7-4b89-a5c7-fb66844bf828">
+
 
 
 ## Result
